@@ -57,7 +57,7 @@ header nav a:hover{
 
 section{
     grid-area: section;
-    background-image: url('/images/subway-2966568_1280.jpg');
+    background-image: url('../images/subway-2966568_1280.jpg');
     background-size: cover
 }
 
